@@ -1,3 +1,3 @@
-# SYM CLONE using REACT JS
+# GYM CLONE using REACT JS
 This is a Gym-clone website.
 
